@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 <!--
