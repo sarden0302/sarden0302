@@ -29,12 +29,13 @@
     <li><a href="https://github.com/sarden0302/topbalanceteam-master">프로젝트 2 - 운세게임 웹사이트</a></li>
 </ul>
 
+<!--
 <p>
     더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
     <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.
 </p>
 
-<!--
+
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>&nbsp
