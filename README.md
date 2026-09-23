@@ -33,9 +33,8 @@
 
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - 카카오톡 카피코딩</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - 고객센터 챗봇</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3 - 유튜브 플레이어</a></li>
+    <li><a href="https://github.com/sarden0302/WalkingBeans">프로젝트 1 - 배달앱 웹사이트</a></li>
+    <li><a href="https://github.com/sarden0302/topbalanceteam-master">프로젝트 2 - 운세게임 웹사이트</a></li>
 </ul>
 
 <p>
