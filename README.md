@@ -26,27 +26,51 @@
 <div align="center">
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=light" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,kafka&theme=light" /><br/>
 <img src="https://img.shields.io/badge/MyBatis-007ACC?style=flat-square"/>
 <img src="https://img.shields.io/badge/WebSocket%20(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,jquery&theme=light" /><br/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 
 **Database**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,redis&theme=light" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=light" /><br/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 **Tools & Infra**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,linux,apache&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,linux,apache,docker,aws,prometheus,grafana&theme=light" />
 
 </div>
 
 ## 🚀 Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>💸 <a href="https://github.com/500-internal-server-error-team/commerce-settle">commerce-settle</a> <sub>팀 프로젝트</sub></h3>
+      <b>주문·결제·환불과 판매자 정산을 잇는 커머스 MSA 플랫폼</b><br/><br/>
+      주문이 몰리거나 외부 PG 응답이 유실돼도 거래 상태와 금액이 어긋나지 않도록 설계한 서비스.<br/>
+      Gateway · Commerce · Payment · Settlement · Finance Mock을 Kafka 이벤트(Outbox/Inbox)로 연결했습니다.<br/><br/>
+      🛒 <b>담당</b>: Commerce 상품 · 가격 · 재고 · 쿠폰 · 선착순 이벤트<br/>
+      ⚡ 부하 시험 SQL 개선: 트랜잭션당 SQL 왕복을 줄여 주문 응답 p95 246ms → 32ms (로컬 50 TPS A/B)<br/>
+      📈 결제 부하 측정: 승인 동시성 · Kafka 발행 지연 · Worker 강제 종료 뒤 수신 공백 분석<br/>
+      📝 과정 기록: <a href="https://velog.io/@sarden030">velog</a><br/><br/>
+      <img src="https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛵 <a href="https://github.com/sarden0302/WalkingBeans">WalkingBeans</a></h3>
