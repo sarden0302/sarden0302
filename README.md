@@ -65,7 +65,7 @@
     <a href="https://gradle.org/" title="Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=light" width="48" alt="Gradle"/></a>
     <a href="https://maven.apache.org/" title="Maven"><img src="https://skillicons.dev/icons?i=maven&theme=light" width="48" alt="Maven"/></a>
     <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="Linux"/></a>
-    <a href="https://httpd.apache.org/" title="Apache HTTP Server"><img src="https://skillicons.dev/icons?i=apache&theme=light" width="48" alt="Apache HTTP Server"/></a>
+    <a href="https://httpd.apache.org/" title="Apache HTTP Server"><img src="./assets/apache.svg" width="48" alt="Apache HTTP Server"/></a>
     <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" alt="Docker"/></a>
     <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" alt="AWS"/></a>
     <a href="https://prometheus.io/" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus&theme=light" width="48" alt="Prometheus"/></a>
