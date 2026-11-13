@@ -9,6 +9,7 @@
 <p>
   <a href="mailto:sarden030@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/sarden0302"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://velog.io/@sarden030/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sarden0302&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS"/>
 </p>
 
