@@ -54,10 +54,13 @@
       <b>주문·결제·환불과 판매자 정산을 잇는 커머스 MSA 플랫폼</b><br/><br/>
       주문이 몰리거나 외부 PG 응답이 유실돼도 거래 상태와 금액이 어긋나지 않도록 설계한 서비스.<br/>
       Gateway · Commerce · Payment · Settlement · Finance Mock을 Kafka 이벤트(Outbox/Inbox)로 연결했습니다.<br/><br/>
-      🛒 <b>담당</b>: Commerce 상품 · 가격 · 재고 · 쿠폰 · 선착순 이벤트<br/>
-      ⚡ 부하 시험 SQL 개선: 트랜잭션당 SQL 왕복을 줄여 주문 응답 p95 246ms → 32ms (로컬 50 TPS A/B)<br/>
-      📈 결제 부하 측정: 승인 동시성 · Kafka 발행 지연 · Worker 강제 종료 뒤 수신 공백 분석<br/>
-      📝 과정 기록: <a href="https://velog.io/@sarden030">velog</a><br/><br/>
+      <b>내 역할</b> · Commerce 백엔드 (커밋 116 · 병합 PR 23)<br/>
+      📦 <b>상품·재고</b>: 상품·재고 API, 주문 재고 예약·확정·해제·복원, 반품 검수 뒤 재고 반영<br/>
+      ⏱ <b>선착순 이벤트</b>: 등록부터 주문 연결까지 구현, 매진 뒤 잠금 대기 없이 거절, 이벤트별 동시 실행 상한<br/>
+      🎟 <b>쿠폰·혜택</b>: 웰컴·판매자 쿠폰 예약·사용·복구, 월간 우수고객 발급 Job, 구매 마일리지 적립<br/>
+      ⚡ <b>성능 개선</b>: 부하 시험 중 DB 부하 분석 → 서비스 4곳 SQL 왕복 감소 (PR 5개, 로컬 측정)<br/>
+      📈 <b>부하 측정·관측</b>: 결제 승인 동시성 · Kafka 발행 지연 · Worker 장애 뒤 수신 공백 측정<br/><br/>
+      👉 <a href="./commerce-settle.md"><b>기여 내용 자세히 보기</b></a> · 📝 <a href="https://velog.io/@sarden030">velog</a><br/><br/>
       <img src="https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
