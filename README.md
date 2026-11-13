@@ -24,7 +24,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <p><b>Backend</b></p>
+  <p><img src="./assets/headings/backend.svg" height="48" alt="Backend"/></p>
   <p>
     <a href="https://dev.java/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=light" width="48" alt="Java"/></a>
     <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="48" alt="Spring Boot"/></a>
@@ -36,7 +36,7 @@
     <a href="https://stomp.github.io/" title="WebSocket (STOMP)"><img src="https://img.shields.io/badge/WebSocket%20(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket (STOMP)"/></a>
     <a href="https://spring.io/projects/spring-cloud-gateway" title="Spring Cloud Gateway"><img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud Gateway"/></a>
   </p>
-  <p><b>Frontend</b></p>
+  <p><img src="./assets/headings/frontend.svg" height="48" alt="Frontend"/></p>
   <p>
     <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" alt="React"/></a>
     <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" alt="JavaScript"/></a>
@@ -48,7 +48,7 @@
   <p>
     <a href="https://www.thymeleaf.org/" title="Thymeleaf"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/></a>
   </p>
-  <p><b>Database</b></p>
+  <p><img src="./assets/headings/database.svg" height="48" alt="Database"/></p>
   <p>
     <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL"/></a>
     <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" alt="PostgreSQL"/></a>
@@ -58,7 +58,7 @@
     <a href="https://mariadb.org/" title="MariaDB"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
     <a href="https://www.oracle.com/database/" title="Oracle Database"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/></a>
   </p>
-  <p><b>Tools &amp; Infra</b></p>
+  <p><img src="./assets/headings/tools-infra.svg" height="48" alt="Tools &amp; Infra"/></p>
   <p>
     <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git"/></a>
     <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/></a>
