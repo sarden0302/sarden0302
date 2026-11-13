@@ -24,25 +24,53 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,kafka&theme=light" /><br/>
-<img src="https://img.shields.io/badge/MyBatis-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebSocket%20(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,jquery&theme=light" /><br/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-
-**Database**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=light" /><br/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-
-**Tools & Infra**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,linux,apache,docker,aws,prometheus,grafana&theme=light" />
-
+  <p><b>Backend</b></p>
+  <p>
+    <a href="https://dev.java/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=light" width="48" alt="Java"/></a>
+    <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="48" alt="Spring Boot"/></a>
+    <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" alt="Node.js"/></a>
+    <a href="https://kafka.apache.org/" title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="48" alt="Apache Kafka"/></a>
+  </p>
+  <p>
+    <a href="https://mybatis.org/mybatis-3/" title="MyBatis"><img src="https://img.shields.io/badge/MyBatis-007ACC?style=flat-square" alt="MyBatis"/></a>
+    <a href="https://stomp.github.io/" title="WebSocket (STOMP)"><img src="https://img.shields.io/badge/WebSocket%20(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket (STOMP)"/></a>
+    <a href="https://spring.io/projects/spring-cloud-gateway" title="Spring Cloud Gateway"><img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud Gateway"/></a>
+  </p>
+  <p><b>Frontend</b></p>
+  <p>
+    <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" alt="React"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" alt="JavaScript"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=light" width="48" alt="HTML"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=light" width="48" alt="CSS"/></a>
+    <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="48" alt="Bootstrap"/></a>
+    <a href="https://jquery.com/" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery&theme=light" width="48" alt="jQuery"/></a>
+  </p>
+  <p>
+    <a href="https://www.thymeleaf.org/" title="Thymeleaf"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/></a>
+  </p>
+  <p><b>Database</b></p>
+  <p>
+    <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL"/></a>
+    <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" alt="PostgreSQL"/></a>
+    <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" alt="Redis"/></a>
+  </p>
+  <p>
+    <a href="https://mariadb.org/" title="MariaDB"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
+    <a href="https://www.oracle.com/database/" title="Oracle Database"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/></a>
+  </p>
+  <p><b>Tools &amp; Infra</b></p>
+  <p>
+    <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git"/></a>
+    <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/></a>
+    <a href="https://gradle.org/" title="Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=light" width="48" alt="Gradle"/></a>
+    <a href="https://maven.apache.org/" title="Maven"><img src="https://skillicons.dev/icons?i=maven&theme=light" width="48" alt="Maven"/></a>
+    <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="Linux"/></a>
+    <a href="https://httpd.apache.org/" title="Apache HTTP Server"><img src="https://skillicons.dev/icons?i=apache&theme=light" width="48" alt="Apache HTTP Server"/></a>
+    <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" alt="Docker"/></a>
+    <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" alt="AWS"/></a>
+    <a href="https://prometheus.io/" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus&theme=light" width="48" alt="Prometheus"/></a>
+    <a href="https://grafana.com/" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="48" alt="Grafana"/></a>
+  </p>
 </div>
 
 ## 🚀 Projects
